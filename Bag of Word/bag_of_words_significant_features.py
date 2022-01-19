@@ -1,3 +1,4 @@
+# Code by Alexander Voldby s214591
 import mglearn
 import numpy as np
 import matplotlib.pyplot as plt
