@@ -1,3 +1,4 @@
+# Code adapted from the Gensim website
 from gensim.models import Word2Vec
 from gensim.models.phrases import Phraser, Phrases
 from GloVe_and_Word2Vec_preprocessing import corpus
